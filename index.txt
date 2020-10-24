@@ -1,0 +1,40 @@
+<!-- Il s'agit du template de base d'une page web en html -->
+<!DOCTYPE html>
+<html lang="fr">
+    <head>
+        <title align ="center">Premiere page</title>
+        <meta charset="UTF-8">
+    </head>
+
+    <body>
+        <h1>Ma premiere page</h1>
+        <p style="color:blue">Voici <b>mon premier paragraphe</b>.Je viens de l'écrire</p>
+        <p>Voici un autre paragraphe</p>
+
+        <br>
+            <a href = "https://google.fr"
+                target ="_blank">Aller sur google</a>
+        <br>
+
+        <img src = "crayon.jpg">
+
+        <br>
+        <h2>Suprise !</h2>
+        <a href="2eme_page.html"><img src = "crayon.jpg"> </a>
+
+        <ul>
+            <li style ="color:blue">Bleu</li>
+            <li style ="color:black">Blanc</li>
+            <li style ="color:red">Rouge</li>
+        </ul>
+
+        <ol>
+            <li>Apprendre HTML</li>
+            <li>Apprendre CSS</li>
+            <li>Créer un site web</li>
+        </ol>
+        
+    </body>
+
+</html>
+
